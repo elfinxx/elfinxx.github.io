@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://elfinxx.github.io
+title: bart
+email: elfinx@gmail.com
+author: Bart
+description: baret
+paginate: 3
+google_analytics: 
